@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="left">Languages I have worked on in some projects</h3>
+<h3 align="left">Languages I have worked on in some projects:</h3>
 
 ###
 
