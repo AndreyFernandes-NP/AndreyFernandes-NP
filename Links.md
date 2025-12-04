@@ -1,5 +1,5 @@
-## E-mail me
+## Formal contact:
 andreyfernandes1361@gmail.com
 
-## Add me on Discord
+## Informal contact (also discord lol):
 r4iin
