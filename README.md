@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="left">Languages I have experience working in Projects</h3>
+<h3 align="left">Languages I have worked on in some projects</h3>
 
 ###
 
@@ -29,6 +29,8 @@
 </div>
 
 ###
+
+<h3 align="left">Contacts:</h3>
 
 <div align="left">
   <a href="https://github.com/AndreyFernandes-NP/AndreyFernandes-NP/blob/main/Links.md" target="_blank">
