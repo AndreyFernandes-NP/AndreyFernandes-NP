@@ -30,7 +30,7 @@
 
 ###
 
-<h3 align="left">Contacts:</h3>
+<h3 align="left">Contacts / Support me:</h3>
 
 <div align="left">
   <a href="https://github.com/AndreyFernandes-NP/AndreyFernandes-NP/blob/main/Links.md" target="_blank">
