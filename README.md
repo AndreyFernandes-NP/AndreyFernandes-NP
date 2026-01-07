@@ -5,9 +5,9 @@ Brazilian programmer and CS graduate, I build things for fun and mostly work wit
 but I enjoy exploring different languages and tools depending on what I want to make.
 </p>
 
-<img align="right" height="150" src="https://i.pinimg.com/originals/46/5e/2e/465e2edc97891a8244ba6002568c91f2.gif"  />
-
 ---
+
+<img align="right" height="150" src="https://i.pinimg.com/originals/46/5e/2e/465e2edc97891a8244ba6002568c91f2.gif"  />
 
 <h3 align="left">Main interests</h3>
 
