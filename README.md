@@ -1,4 +1,9 @@
-<h2 align="left">👋 Wassup! I'm Andrey, a brazilian programmer</h2>
+<h2 align="left">👋 Wassup! I'm Andrey</h2>
+
+<p align="left">
+Brazilian programmer and Computer Science graduate, building things for fun, I mostly work with <b>Python</b> overall,<br>
+but I enjoy exploring different languages and tools depending on what I want to make.
+</p>
 
 ###
 
