@@ -1,15 +1,9 @@
 <h2 align="left">👋 Wassup! I'm Andrey</h2>
 
 <p align="left">
-Brazilian programmer and Computer Science graduate, building things for fun, I mostly work with <b>Python</b> overall,<br>
+Brazilian programmer and CS graduate, I build things for fun and mostly work with <b>Python</b>,<br>
 but I enjoy exploring different languages and tools depending on what I want to make.
 </p>
-
-###
-
-<h3 align="left">Languages I have worked on in some projects:</h3>
-
-###
 
 <img align="right" height="150" src="https://i.pinimg.com/originals/46/5e/2e/465e2edc97891a8244ba6002568c91f2.gif"  />
 
