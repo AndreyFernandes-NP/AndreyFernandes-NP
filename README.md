@@ -49,9 +49,9 @@ Some projects are simple, some are messy and weird (on purpose), but all of them
 
 ---
 
-<h3 align="left">Contacts / Support</h3>
-
 <img align="right" height="150" src="https://i.pinimg.com/originals/46/5e/2e/465e2edc97891a8244ba6002568c91f2.gif"/>
+
+<h3 align="left">Contacts / Support</h3>
 
 <div align="left">
   <a href="https://github.com/AndreyFernandes-NP/AndreyFernandes-NP/blob/main/Links.md" target="_blank">
