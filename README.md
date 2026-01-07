@@ -7,8 +7,6 @@ but I enjoy exploring different languages and tools depending on what I want to 
 
 ---
 
-<img align="right" height="150" src="https://i.pinimg.com/originals/46/5e/2e/465e2edc97891a8244ba6002568c91f2.gif"  />
-
 <h3 align="left">Main interests</h3>
 
 <ul>
@@ -70,3 +68,5 @@ Some projects are simple, some are messy and weird (on purpose), but all of them
 <p align="center">
 <i>Code doesn't have to be serious to be good.</i>
 </p>
+
+<img align="right" height="150" src="https://i.pinimg.com/originals/46/5e/2e/465e2edc97891a8244ba6002568c91f2.gif"  />
