@@ -43,7 +43,7 @@ but I enjoy exploring different languages and tools depending on what I want to 
 <h3 align="left">About this GitHub</h3>
 
 <p align="left">
-This is my <b>personal playground</b>: personal projects, collaborations, college code, experiments, game mods, and random ideas that turned into code or I've decided to commit.<br>
+It's a collection of personal projects, collaborations, college code, experiments, game mods, and random ideas I decided to commit.<br>
 Some projects are simple, some are messy and weird (on purpose), but all of them are something to me.
 </p>
 
@@ -53,6 +53,7 @@ Some projects are simple, some are messy and weird (on purpose), but all of them
 
 <h3 align="left">Contacts / Support</h3>
 
+<br>
 <div align="left">
   <a href="https://github.com/AndreyFernandes-NP/AndreyFernandes-NP/blob/main/Links.md" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&color=7289DA&logoColor=white&style=for-the-badge" height="35" />
@@ -63,6 +64,8 @@ Some projects are simple, some are messy and weird (on purpose), but all of them
   <a href="https://ko-fi.com/andreyfernandes" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Ko-fi&logo=ko-fi&color=F16061&logoColor=white&style=for-the-badge" height="35" />
   </a>
+  <br><br>
+  <br>
 </div>
 
 ---
