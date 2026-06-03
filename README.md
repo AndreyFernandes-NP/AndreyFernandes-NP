@@ -1,7 +1,7 @@
 <h2 align="left">👋 Wassup! I'm Andrey</h2>
 
 <p align="left">
-Brazilian programmer and CS graduate, I build things for fun and mostly work with <b>Python</b>,<br>
+Brazilian programmer, CS graduate and Postgraduate student in A.I, I build things for fun and mostly work with <b>Python</b>,<br>
 but I enjoy exploring different languages and tools depending on what I want to make.
 </p>
 
